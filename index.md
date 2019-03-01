@@ -21,3 +21,4 @@ Duties included Inventory, small home and workplace repair, and Scheduling
 
 ## Projects
 * Built an inventory program with GUI for workplace to keep track of rental inventory
+![Final Project](https://github.com/Mario7497/Mario7497/blob/master/images/Final%20Project.PNG)
