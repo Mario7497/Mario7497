@@ -1,5 +1,13 @@
 # Resume
 
+# About Me
+<p>
+ I am currently studying computer science at Mira Costa College about to transfer to SU. My hobbies currently include 
+ tinkering with embedded systems such as arduino's ATMEGA328, ESP8266, and ATTINY85. I also enjoy protoyping with 3d 
+ printing anddesigning in Solid Works
+</p>
+
+
 ## Education
 
 
@@ -20,5 +28,5 @@
 Duties included Inventory, small home and workplace repair, and Scheduling
 
 ## Projects
-* Built an inventory program with GUI for workplace to keep track of rental inventory
+* Built an inventory program with GUI for workplace to keep track of rental inventory for my Boss's store in Encinitas
 ![Final Project](https://github.com/Mario7497/Mario7497/blob/master/images/Final%20Project.PNG)
