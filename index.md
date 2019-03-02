@@ -1,5 +1,5 @@
 # Resume
-
+![portrait](https://github.com/Mario7497/Mario7497/blob/master/images/portrait.png)
 # About Me
 <p>
  I am currently studying computer science at Mira Costa College about to transfer to SU. My hobbies currently include 
