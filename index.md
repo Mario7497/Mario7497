@@ -29,4 +29,4 @@ Duties included Inventory, small home and workplace repair, and Scheduling
 
 ## Projects
 * Built an inventory program with GUI for workplace to keep track of rental inventory for my Boss's store in Encinitas
-![Final Project](https://github.com/Mario7497/Mario7497/blob/master/images/Final%20Project.PNG)
+![final project](https://user-images.githubusercontent.com/24659139/53911372-0c7f5480-400b-11e9-9fc3-836b505020b8.PNG)
