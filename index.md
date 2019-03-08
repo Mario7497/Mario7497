@@ -1,6 +1,6 @@
 # Resume
 <img style="border-radius:50%;" src="https://user-images.githubusercontent.com/24659139/53911173-8c58ef00-400a-11e9-85e6-32dcb402bff6.png" alt="portrait" title="Me"  />
-# About Me
+## About Me
 <p>
  I am currently studying computer science at Mira Costa College about to transfer to a CSU. My hobbies currently include 
  tinkering with embedded systems such as arduino's ATMEGA328, ESP8266, and ATTINY85. I also enjoy protoyping with 3d 
